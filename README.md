@@ -85,18 +85,3 @@ Install these dependencies by running:
 ```sh
 pip install -r requirements.txt
 ```
-
-## Acknowledgements
-This project is based on tutorials from Krish Naik's Udemy course. Special thanks to Krish Naik for providing comprehensive guidance on building churn prediction models with machine learning.
-
----
-## Screenshots
-
-1. **Screenshot 1**  
-   ![Screenshot 1](https://github.com/user-attachments/assets/31d59286-ccb3-45d8-9e6f-1dd4444cce27)
-
-2. **Screenshot 2**  
-   ![Screenshot 2](https://github.com/user-attachments/assets/8b8ec61c-93fd-4ae5-bd9a-dbb6a27e807d)
-
-
-
